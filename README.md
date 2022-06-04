@@ -4,7 +4,7 @@ En primer lugar accedemos a la [ Plataforma Azure](http://portal.azure.com/) don
 
 Nos llevara a la siguiente pantalla, donde buscaremos el Marketplace.
 
-![](img\1.jpg)
+![](.\img\1.jpg)
 
 ![](img\2.jpg)
 
